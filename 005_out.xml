@@ -74,9 +74,9 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Hunts Hall, Concerts in the Park, Pool" target="0/0/70" pan="104.812" skinid="" url="{node5}" id="Point01" tilt="1.5019"/>
       <hotspot title="Park drive" target="11.5/-5.5/70" pan="12.1793" skinid="" url="{node6}" id="Point02" tilt="-0.249571"/>
-      <hotspot title="" target="0/0/70" pan="-80.3054" skinid="" url="{node3}" id="Point03" tilt="-2.24994"/>
+      <hotspot title="" target="0/0/70" pan="-79.8557" skinid="" url="{node3}" id="Point03" tilt="-0.619206"/>
       <hotspot title="The Castle Top" target="245.5/-21/70" pan="-14.5708" skinid="" url="{node16}" id="Point04" tilt="1.49801"/>
-      <hotspot title="Concerts in the Park" target="" pan="60.1254" skinid="" url="" id="Point05" tilt="1.37213"/>
+      <hotspot title="Concerts in the Park" target="220/4.5/70" pan="60.1254" skinid="" url="{node6}" id="Point05" tilt="1.37213"/>
     </hotspots>
     <media/>
     <input tile0url="images/008_o_0.jpg" prev5url="images/008_o_preview_5.jpg" prev4url="images/008_o_preview_4.jpg" prev3url="images/008_o_preview_3.jpg" prev2url="images/008_o_preview_2.jpg" prev1url="images/008_o_preview_1.jpg" prev0url="images/008_o_preview_0.jpg" tile5url="images/008_o_5.jpg" tilesize="1344" tile4url="images/008_o_4.jpg" tile3url="images/008_o_3.jpg" tilescale="1.007440" tile2url="images/008_o_2.jpg" tile1url="images/008_o_1.jpg">
@@ -121,6 +121,8 @@
       <hotspot title="Bench and swings" target="" pan="48.655" skinid="" url="" id="Point01" tilt="-2.39289"/>
       <hotspot title="011" target="0/0/70" pan="64.6639" skinid="" url="{node7}" id="Point03" tilt="0"/>
       <hotspot title="Castle Top" target="198.5/-21.5/70" pan="-34.2264" skinid="" url="{node16}" id="Point02" tilt="1.58941"/>
+      <hotspot title="Concerts in the Park is on Facebook!" target="_blank" pan="-160.494" skinid="" url="https://www.facebook.com/gascityconcertsinthepark/?fref=ts" id="Point04" tilt="9.62037"/>
+      <hotspot title="Hunts Hall, Pool" target="183/-1.5/70" pan="-110.37" skinid="" url="{node5}" id="Point05" tilt="2.34136"/>
     </hotspots>
     <media/>
     <input tile0url="images/010_o_0.jpg" prev5url="images/010_o_preview_5.jpg" prev4url="images/010_o_preview_4.jpg" prev3url="images/010_o_preview_3.jpg" prev2url="images/010_o_preview_2.jpg" prev1url="images/010_o_preview_1.jpg" prev0url="images/010_o_preview_0.jpg" tile5url="images/010_o_5.jpg" tilesize="1344" tile4url="images/010_o_4.jpg" tile3url="images/010_o_3.jpg" tilescale="1.007440" tile2url="images/010_o_2.jpg" tile1url="images/010_o_1.jpg">
