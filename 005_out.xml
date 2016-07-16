@@ -53,7 +53,7 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Hunts Hall, Concerts in the Park" target="0/0/70" pan="120.367" skinid="" url="{node5}" id="Point01" tilt="2.14226"/>
       <hotspot title="" target="268.5/2.5/70" pan="-84.073" skinid="" url="{node2}" id="Point02" tilt="-1.85349"/>
-      <hotspot title="Primary Playground" target="101/2/70" pan="87.2356" skinid="" url="{node4}" id="Point03" tilt="-2.83126"/>
+      <hotspot title="Primary Playground" target="345.5/0.5/70" pan="87.2356" skinid="" url="{node4}" id="Point03" tilt="-2.83126"/>
     </hotspots>
     <media/>
     <input tile0url="images/007_o_0.jpg" prev5url="images/007_o_preview_5.jpg" prev4url="images/007_o_preview_4.jpg" prev3url="images/007_o_preview_3.jpg" prev2url="images/007_o_preview_2.jpg" prev1url="images/007_o_preview_1.jpg" prev0url="images/007_o_preview_0.jpg" tile5url="images/007_o_5.jpg" tilesize="1344" tile4url="images/007_o_4.jpg" tile3url="images/007_o_3.jpg" tilescale="1.007440" tile2url="images/007_o_2.jpg" tile1url="images/007_o_1.jpg">
@@ -95,7 +95,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="008" target="283/-2.5/70" pan="272.292" skinid="" url="{node4}" id="Point01" tilt="0"/>
-      <hotspot title="010" target="346/-2.5/70" pan="318.178" skinid="" url="{node6}" id="Point02" tilt="0"/>
+      <hotspot title="Plaground, pond, picnic areas" target="346/-2.5/70" pan="-48.9801" skinid="" url="{node6}" id="Point02" tilt="-1.06624"/>
       <hotspot title="Gas City Concerts in the Park is on Facebook!" target="_blank" pan="3.86853" skinid="" url="https://www.facebook.com/gascityconcertsinthepark" id="Point04" tilt="29.5979"/>
       <hotspot title="Gas City Pool" target="_blank" pan="128.716" skinid="" url="https://mediabrain.net/gas-city/locations/gas-city-swimming-pool" id="Point05" tilt="3.26565"/>
       <hotspot title="PCA" target="_blank" pan="-18.9047" skinid="" url="http://www.packagingcorp.com/gas-city-full-line-plant" id="Point03" tilt="0.591176"/>
@@ -117,10 +117,9 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="012" target="" pan="42.1856" skinid="" url="" id="Point01" tilt="0"/>
-      <hotspot title="013" target="0/0/70" pan="43.1918" skinid="" url="{node9}" id="Point02" tilt="0"/>
+      <hotspot title="Bench and swings" target="" pan="48.655" skinid="" url="" id="Point01" tilt="-2.39289"/>
       <hotspot title="011" target="0/0/70" pan="64.6639" skinid="" url="{node7}" id="Point03" tilt="0"/>
-      <hotspot title="008" target="0/0/70" pan="-48.3239" skinid="" url="{node4}" id="Point04" tilt="0"/>
+      <hotspot title="Castle Top" target="198.5/-21.5/70" pan="-34.2264" skinid="" url="{node16}" id="Point02" tilt="1.58941"/>
     </hotspots>
     <media/>
     <input tile0url="images/010_o_0.jpg" prev5url="images/010_o_preview_5.jpg" prev4url="images/010_o_preview_4.jpg" prev3url="images/010_o_preview_3.jpg" prev2url="images/010_o_preview_2.jpg" prev1url="images/010_o_preview_1.jpg" prev0url="images/010_o_preview_0.jpg" tile5url="images/010_o_5.jpg" tilesize="1344" tile4url="images/010_o_4.jpg" tile3url="images/010_o_3.jpg" tilescale="1.007440" tile2url="images/010_o_2.jpg" tile1url="images/010_o_1.jpg">
@@ -247,7 +246,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="017" target="340/-2/70" pan="37.3821" skinid="" url="{node12}" id="Point01" tilt="3.11245"/>
-      <hotspot title="011" target="14.5/-1.5/70" pan="94.5893" skinid="" url="{node7}" id="Point02" tilt="-5.78199"/>
+      <hotspot title="Bench and swings" target="14.5/-1.5/70" pan="94.5893" skinid="" url="{node7}" id="Point02" tilt="-5.78199"/>
       <hotspot title="Hunts Hall, Concerts in the Park, Gas City Pool" target="" pan="-151.977" skinid="" url="{node5}" id="Point03" tilt="-1.22856"/>
       <hotspot title="Kiddie Playground" target="0/0/70" pan="-43.074" skinid="" url="{node3}" id="Point05" tilt="3.53872"/>
     </hotspots>
