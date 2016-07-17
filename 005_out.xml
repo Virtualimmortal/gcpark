@@ -51,9 +51,9 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Hunts Hall, Concerts in the Park" target="0/0/70" pan="120.367" skinid="" url="{node5}" id="Point01" tilt="2.14226"/>
+      <hotspot title="Hunts Hall, Concerts in the Park" target="0/0/70" pan="112.232" skinid="" url="{node5}" id="Point01" tilt="2.52686"/>
       <hotspot title="Entrance" target="268.5/2.5/70" pan="-84.073" skinid="" url="{node2}" id="Point02" tilt="-1.85349"/>
-      <hotspot title="Primary Playground" target="345.5/0.5/70" pan="87.2356" skinid="" url="{node4}" id="Point03" tilt="-2.83126"/>
+      <hotspot title="Primary Playground" target="345.5/0.5/70" pan="85.8009" skinid="" url="{node4}" id="Point03" tilt="-3.28986"/>
     </hotspots>
     <media/>
     <input tile0url="images/007_o_0.jpg" prev5url="images/007_o_preview_5.jpg" prev4url="images/007_o_preview_4.jpg" prev3url="images/007_o_preview_3.jpg" prev2url="images/007_o_preview_2.jpg" prev1url="images/007_o_preview_1.jpg" prev0url="images/007_o_preview_0.jpg" tile5url="images/007_o_5.jpg" tilesize="1344" tile4url="images/007_o_4.jpg" tile3url="images/007_o_3.jpg" tilescale="1.007440" tile2url="images/007_o_2.jpg" tile1url="images/007_o_1.jpg">
@@ -167,6 +167,7 @@
       <hotspot title="Duck Landing" target="5/-10/70" pan="117.607" skinid="" url="{node12}" id="Point01" tilt="0.180953"/>
       <hotspot title="Go Fishing" target="0/0/70" pan="35.9078" skinid="" url="{node15}" id="Point03" tilt="0"/>
       <hotspot title="Castle Top" target="200.5/-24.5/70" pan="-41.523" skinid="" url="{node16}" id="Point04" tilt="3.89092"/>
+      <hotspot title="An uninteresting place that only exists here" target="78/17/120" pan="-113.148" skinid="" url="{node17}" id="Point05" tilt="35.2051"/>
     </hotspots>
     <media/>
     <input tile0url="images/013_o_0.jpg" prev5url="images/013_o_preview_5.jpg" prev4url="images/013_o_preview_4.jpg" prev3url="images/013_o_preview_3.jpg" prev2url="images/013_o_preview_2.jpg" prev1url="images/013_o_preview_1.jpg" prev0url="images/013_o_preview_0.jpg" tile5url="images/013_o_5.jpg" tilesize="1344" tile4url="images/013_o_4.jpg" tile3url="images/013_o_3.jpg" tilescale="1.007440" tile2url="images/013_o_2.jpg" tile1url="images/013_o_1.jpg">
@@ -231,7 +232,7 @@
       <hotspot title="Entrance" target="0/0/70" pan="176.825" skinid="" url="{node2}" id="Point03" tilt="-2.9083"/>
       <hotspot title="Youtube 360" target="_blank" pan="-38.2244" skinid="" url="https://www.youtube.com/watch?v=Gvgw4glgWU4" id="Point05" tilt="-18.3769"/>
       <hotspot title="Bench and swing" target="17.5/-12/70" pan="19.1282" skinid="" url="{node7}" id="Point02" tilt="2.47815"/>
-      <hotspot title="Over there..." target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
+      <hotspot title="Picnic Shelter" target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
       <hotspot title="Duck Landing" target="267/-22/70" pan="-63.093" skinid="" url="{node12}" id="Point04" tilt="3.50146"/>
     </hotspots>
     <media/>
@@ -251,16 +252,37 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="017" target="340/-2/70" pan="37.3821" skinid="" url="{node12}" id="Point01" tilt="3.11245"/>
+      <hotspot title="Duck Landing" target="325.5/0.5/70" pan="37.3821" skinid="" url="{node12}" id="Point01" tilt="3.11245"/>
       <hotspot title="Bench and swings" target="14.5/-1.5/70" pan="94.5893" skinid="" url="{node7}" id="Point02" tilt="-5.78199"/>
       <hotspot title="Hunts Hall, Concerts in the Park, Gas City Pool" target="" pan="-151.977" skinid="" url="{node5}" id="Point03" tilt="-1.22856"/>
-      <hotspot title="Kiddie Playground" target="0/0/70" pan="-43.074" skinid="" url="{node3}" id="Point05" tilt="3.53872"/>
+      <hotspot title="Miniature Playground" target="0/0/70" pan="-19.7981" skinid="" url="{node3}" id="Point05" tilt="3.47682"/>
+      <hotspot title="Petting Zoo" target="" pan="20.2848" skinid="" url="{node14}" id="Point04" tilt="6.6274"/>
+      <hotspot title="Go Fishing!" target="0/0/70" pan="0.974085" skinid="" url="{node15}" id="Point06" tilt="3.72489"/>
     </hotspots>
     <media/>
     <input tile0url="images/026_o_0.jpg" prev5url="images/026_o_preview_5.jpg" prev4url="images/026_o_preview_4.jpg" prev3url="images/026_o_preview_3.jpg" prev2url="images/026_o_preview_2.jpg" prev1url="images/026_o_preview_1.jpg" prev0url="images/026_o_preview_0.jpg" tile5url="images/026_o_5.jpg" tilesize="1344" tile4url="images/026_o_4.jpg" tile3url="images/026_o_3.jpg" tilescale="1.007440" tile2url="images/026_o_2.jpg" tile1url="images/026_o_1.jpg">
       <preview color="0x808080"/>
     </input>
     <altinput tile0url="images/026_o_800_0.jpg" screensize="1000" tile5url="images/026_o_800_5.jpg" tilesize="800" tile4url="images/026_o_800_4.jpg" tile3url="images/026_o_800_3.jpg" tilescale="1.007440" tile2url="images/026_o_800_2.jpg" tile1url="images/026_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <view fovmode="3" pannorth="0">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:14:35" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621353" latitude="40.481828"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Exit" target="217/36.5/70" pan="165.847" skinid="" url="{node9}" id="Point01" tilt="-7.5966"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Skarbua inside hytte_o_0.jpg" prev5url="images/Skarbua inside hytte_o_preview_5.jpg" prev4url="images/Skarbua inside hytte_o_preview_4.jpg" prev3url="images/Skarbua inside hytte_o_preview_3.jpg" prev2url="images/Skarbua inside hytte_o_preview_2.jpg" prev1url="images/Skarbua inside hytte_o_preview_1.jpg" prev0url="images/Skarbua inside hytte_o_preview_0.jpg" tile5url="images/Skarbua inside hytte_o_5.jpg" tilesize="1344" tile4url="images/Skarbua inside hytte_o_4.jpg" tile3url="images/Skarbua inside hytte_o_3.jpg" tilescale="1.007440" tile2url="images/Skarbua inside hytte_o_2.jpg" tile1url="images/Skarbua inside hytte_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/Skarbua inside hytte_o_800_0.jpg" screensize="1000" tile5url="images/Skarbua inside hytte_o_800_5.jpg" tilesize="800" tile4url="images/Skarbua inside hytte_o_800_4.jpg" tile3url="images/Skarbua inside hytte_o_800_3.jpg" tilescale="1.007440" tile2url="images/Skarbua inside hytte_o_800_2.jpg" tile1url="images/Skarbua inside hytte_o_800_1.jpg"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
 </tour>
