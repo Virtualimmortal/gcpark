@@ -207,7 +207,7 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Go Fishing!" target="0/0/70" pan="-145.725" skinid="" url="{node15}" id="Point02" tilt="-0.217953"/>
       <hotspot title="See what others have been doing here.  Gas City Petting Zoo is on Facebook!" target="_blank" pan="1.36119" skinid="" url="https://www.facebook.com/pages/Gas-City-Petting-Zoo/349698948401632" id="Point03" tilt="9.70522"/>
-      <hotspot title="The Duck Zone" target="0/0/70" pan="174.083" skinid="" url="{node12}" id="Point01" tilt="-0.128551"/>
+      <hotspot title="Duck Landing" target="0/0/70" pan="174.083" skinid="" url="{node12}" id="Point01" tilt="-0.128551"/>
     </hotspots>
     <media/>
     <input tile0url="images/018_o_0.jpg" prev5url="images/018_o_preview_5.jpg" prev4url="images/018_o_preview_4.jpg" prev3url="images/018_o_preview_3.jpg" prev2url="images/018_o_preview_2.jpg" prev1url="images/018_o_preview_1.jpg" prev0url="images/018_o_preview_0.jpg" tile5url="images/018_o_5.jpg" tilesize="1344" tile4url="images/018_o_4.jpg" tile3url="images/018_o_3.jpg" tilescale="1.007440" tile2url="images/018_o_2.jpg" tile1url="images/018_o_1.jpg">
@@ -231,7 +231,7 @@
       <hotspot title="Youtube 360" target="_blank" pan="-38.2244" skinid="" url="https://www.youtube.com/watch?v=Gvgw4glgWU4" id="Point05" tilt="-18.3769"/>
       <hotspot title="Bench and swing" target="17.5/-12/70" pan="19.1282" skinid="" url="{node7}" id="Point02" tilt="2.47815"/>
       <hotspot title="Over there..." target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
-      <hotspot title="The Duck Landing" target="267/-22/70" pan="-63.093" skinid="" url="{node12}" id="Point04" tilt="3.50146"/>
+      <hotspot title="Duck Landing" target="267/-22/70" pan="-63.093" skinid="" url="{node12}" id="Point04" tilt="3.50146"/>
     </hotspots>
     <media/>
     <input tile0url="images/019_o_0.jpg" prev5url="images/019_o_preview_5.jpg" prev4url="images/019_o_preview_4.jpg" prev3url="images/019_o_preview_3.jpg" prev2url="images/019_o_preview_2.jpg" prev1url="images/019_o_preview_1.jpg" prev0url="images/019_o_preview_0.jpg" tile5url="images/019_o_5.jpg" tilesize="1344" tile4url="images/019_o_4.jpg" tile3url="images/019_o_3.jpg" tilescale="1.007440" tile2url="images/019_o_2.jpg" tile1url="images/019_o_1.jpg">
