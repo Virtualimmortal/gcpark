@@ -32,7 +32,7 @@
       <hotspot title="Playgrounds, Hunts Hall, Concerts in the Park..." target="90.5/1.5/70" pan="87.5987" skinid="" url="{node3}" id="Point01" tilt="-2.00079"/>
       <hotspot title="Petting Zoo" target="34.5/2.5/70" pan="-88.3591" skinid="" url="{node14}" id="Point02" tilt="-1.32839"/>
       <hotspot title="Exit park.  Thanks, bye!! :)" target="" pan="169.48" skinid="" url="{node1}" id="Point03" tilt="1.83477"/>
-      <hotspot title="The pond" target="344.5/6/70" pan="13.3515" skinid="" url="{node15}" id="Point04" tilt="-5.6502"/>
+      <hotspot title="The pond" target="316.5/2.5/70" pan="13.3515" skinid="" url="{node15}" id="Point04" tilt="-5.6502"/>
     </hotspots>
     <media/>
     <input tile0url="images/006_o_0.jpg" prev5url="images/006_o_preview_5.jpg" prev4url="images/006_o_preview_4.jpg" prev3url="images/006_o_preview_3.jpg" prev2url="images/006_o_preview_2.jpg" prev1url="images/006_o_preview_1.jpg" prev0url="images/006_o_preview_0.jpg" tile5url="images/006_o_5.jpg" tilesize="1344" tile4url="images/006_o_4.jpg" tile3url="images/006_o_3.jpg" tilescale="1.007440" tile2url="images/006_o_2.jpg" tile1url="images/006_o_1.jpg">
@@ -141,10 +141,10 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="010" target="" pan="-25.3355" skinid="" url="{node6}" id="Point01" tilt="0"/>
-      <hotspot title="013" target="333/-8/70" pan="68.5782" skinid="" url="{node9}" id="Point02" tilt="0.284247"/>
-      <hotspot title="" target="0/0/70" pan="33.6551" skinid="" url="{node14}" id="Point07" tilt="-1.93956"/>
-      <hotspot title="019" target="0/0/70" pan="10.89" skinid="" url="{node15}" id="Point04" tilt="-3.10492"/>
+      <hotspot title="Castle Top" target="" pan="-36.9636" skinid="" url="{node6}" id="Point01" tilt="1.89669"/>
+      <hotspot title="Picnic shelter" target="349.5/-25.5/70" pan="68.5782" skinid="" url="{node9}" id="Point02" tilt="0.284247"/>
+      <hotspot title="Petting Zoo" target="0/0/70" pan="33.6551" skinid="" url="{node14}" id="Point07" tilt="-1.93956"/>
+      <hotspot title="Go Fishing" target="0/0/70" pan="10.89" skinid="" url="{node15}" id="Point04" tilt="-3.10492"/>
     </hotspots>
     <media/>
     <input tile0url="images/011_o_0.jpg" prev5url="images/011_o_preview_5.jpg" prev4url="images/011_o_preview_4.jpg" prev3url="images/011_o_preview_3.jpg" prev2url="images/011_o_preview_2.jpg" prev1url="images/011_o_preview_1.jpg" prev0url="images/011_o_preview_0.jpg" tile5url="images/011_o_5.jpg" tilesize="1344" tile4url="images/011_o_4.jpg" tile3url="images/011_o_3.jpg" tilescale="1.007440" tile2url="images/011_o_2.jpg" tile1url="images/011_o_1.jpg">
@@ -163,8 +163,9 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="340.5/-22/70" pan="-108.027" skinid="" url="{node7}" id="Point02" tilt="-1.07009"/>
-      <hotspot title="" target="5/-10/70" pan="117.607" skinid="" url="{node12}" id="Point01" tilt="0.180953"/>
+      <hotspot title="Bench and swing" target="24.5/-12.5/70" pan="-98.1163" skinid="" url="{node7}" id="Point02" tilt="-1.08382"/>
+      <hotspot title="Duck Landing" target="5/-10/70" pan="117.607" skinid="" url="{node12}" id="Point01" tilt="0.180953"/>
+      <hotspot title="Go Fishing" target="0/0/70" pan="35.9078" skinid="" url="{node15}" id="Point03" tilt="0"/>
     </hotspots>
     <media/>
     <input tile0url="images/013_o_0.jpg" prev5url="images/013_o_preview_5.jpg" prev4url="images/013_o_preview_4.jpg" prev3url="images/013_o_preview_3.jpg" prev2url="images/013_o_preview_2.jpg" prev1url="images/013_o_preview_1.jpg" prev0url="images/013_o_preview_0.jpg" tile5url="images/013_o_5.jpg" tilesize="1344" tile4url="images/013_o_4.jpg" tile3url="images/013_o_3.jpg" tilescale="1.007440" tile2url="images/013_o_2.jpg" tile1url="images/013_o_1.jpg">
@@ -228,8 +229,8 @@
       <hotspot title="Petting Zoo" target="0/0/70" pan="-119.491" skinid="" url="{node14}" id="Point01" tilt="3.62565"/>
       <hotspot title="Entrance" target="0/0/70" pan="176.825" skinid="" url="{node2}" id="Point03" tilt="-2.9083"/>
       <hotspot title="Youtube 360" target="_blank" pan="-38.2244" skinid="" url="https://www.youtube.com/watch?v=Gvgw4glgWU4" id="Point05" tilt="-18.3769"/>
-      <hotspot title="011" target="" pan="19.1282" skinid="" url="{node7}" id="Point02" tilt="2.47815"/>
-      <hotspot title="013" target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
+      <hotspot title="Bench and swing" target="17.5/-12/70" pan="19.1282" skinid="" url="{node7}" id="Point02" tilt="2.47815"/>
+      <hotspot title="Over there..." target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
       <hotspot title="The Duck Landing" target="267/-22/70" pan="-63.093" skinid="" url="{node12}" id="Point04" tilt="3.50146"/>
     </hotspots>
     <media/>
