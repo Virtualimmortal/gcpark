@@ -121,7 +121,7 @@
       <hotspot title="Bench and swings" target="" pan="48.655" skinid="" url="" id="Point01" tilt="-2.39289"/>
       <hotspot title="011" target="0/0/70" pan="64.6639" skinid="" url="{node7}" id="Point03" tilt="0"/>
       <hotspot title="Castle Top" target="198.5/-21.5/70" pan="-34.2264" skinid="" url="{node16}" id="Point02" tilt="1.58941"/>
-      <hotspot title="Concerts in the Park is on Facebook!" target="_blank" pan="-160.494" skinid="" url="https://www.facebook.com/gascityconcertsinthepark/?fref=ts" id="Point04" tilt="9.62037"/>
+      <hotspot title="Concerts in the Park" target="0/0/70" pan="-160.494" skinid="" url="{node5}" id="Point04" tilt="9.62037"/>
       <hotspot title="Hunts Hall, Pool" target="183/-1.5/70" pan="-110.37" skinid="" url="{node5}" id="Point05" tilt="2.34136"/>
     </hotspots>
     <media/>
@@ -141,10 +141,11 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Castle Top" target="" pan="-36.9636" skinid="" url="{node6}" id="Point01" tilt="1.89669"/>
+      <hotspot title="Castle Top" target="198.5/-16.5/70" pan="-36.9636" skinid="" url="{node16}" id="Point01" tilt="1.89669"/>
       <hotspot title="Picnic shelter" target="349.5/-25.5/70" pan="68.5782" skinid="" url="{node9}" id="Point02" tilt="0.284247"/>
       <hotspot title="Petting Zoo" target="0/0/70" pan="33.6551" skinid="" url="{node14}" id="Point07" tilt="-1.93956"/>
       <hotspot title="Go Fishing" target="0/0/70" pan="10.89" skinid="" url="{node15}" id="Point04" tilt="-3.10492"/>
+      <hotspot title="Concerts in the Park" target="217/-1/70" pan="-103.226" skinid="" url="{node6}" id="Point03" tilt="0.360943"/>
     </hotspots>
     <media/>
     <input tile0url="images/011_o_0.jpg" prev5url="images/011_o_preview_5.jpg" prev4url="images/011_o_preview_4.jpg" prev3url="images/011_o_preview_3.jpg" prev2url="images/011_o_preview_2.jpg" prev1url="images/011_o_preview_1.jpg" prev0url="images/011_o_preview_0.jpg" tile5url="images/011_o_5.jpg" tilesize="1344" tile4url="images/011_o_4.jpg" tile3url="images/011_o_3.jpg" tilescale="1.007440" tile2url="images/011_o_2.jpg" tile1url="images/011_o_1.jpg">
