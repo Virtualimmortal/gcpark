@@ -167,7 +167,7 @@
       <hotspot title="Duck Landing" target="5/-10/70" pan="117.607" skinid="" url="{node12}" id="Point01" tilt="0.180953"/>
       <hotspot title="Go Fishing" target="0/0/70" pan="35.9078" skinid="" url="{node15}" id="Point03" tilt="0"/>
       <hotspot title="Castle Top" target="200.5/-24.5/70" pan="-41.523" skinid="" url="{node16}" id="Point04" tilt="3.89092"/>
-      <hotspot title="An uninteresting place that only exists here" target="78/17/120" pan="-113.148" skinid="" url="{node17}" id="Point05" tilt="35.2051"/>
+      <hotspot title="An uninteresting place that does not exist" target="78/17/120" pan="-112.153" skinid="" url="{node17}" id="Point05" tilt="37.3418"/>
     </hotspots>
     <media/>
     <input tile0url="images/013_o_0.jpg" prev5url="images/013_o_preview_5.jpg" prev4url="images/013_o_preview_4.jpg" prev3url="images/013_o_preview_3.jpg" prev2url="images/013_o_preview_2.jpg" prev1url="images/013_o_preview_1.jpg" prev0url="images/013_o_preview_0.jpg" tile5url="images/013_o_5.jpg" tilesize="1344" tile4url="images/013_o_4.jpg" tile3url="images/013_o_3.jpg" tilescale="1.007440" tile2url="images/013_o_2.jpg" tile1url="images/013_o_1.jpg">
