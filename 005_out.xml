@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="3" pannorth="247">
+      <start pan="5.5" fov="86.0671" tilt="3"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:14:35" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621353" latitude="40.481828"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Park Entrance" target="0/0/70" pan="4.21861" skinid="" url="{node2}" id="Point01" tilt="-4.43703"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/005_o_0.jpg" prev5url="images/005_o_preview_5.jpg" prev4url="images/005_o_preview_4.jpg" prev3url="images/005_o_preview_3.jpg" prev2url="images/005_o_preview_2.jpg" prev1url="images/005_o_preview_1.jpg" prev0url="images/005_o_preview_0.jpg" tile5url="images/005_o_5.jpg" tilesize="1344" tile4url="images/005_o_4.jpg" tile3url="images/005_o_3.jpg" tilescale="1.007440" tile2url="images/005_o_2.jpg" tile1url="images/005_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/005_o_800_0.jpg" screensize="1000" tile5url="images/005_o_800_5.jpg" tilesize="800" tile4url="images/005_o_800_4.jpg" tile3url="images/005_o_800_3.jpg" tilescale="1.007440" tile2url="images/005_o_800_2.jpg" tile1url="images/005_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="3" pannorth="247">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:17:12" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.62194699999998" latitude="40.481775"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Playgrounds, Hunts Hall, Concerts in the Park..." target="90.5/1.5/70" pan="80.7183" skinid="" url="{node3}" id="Point01" tilt="-3.54746"/>
+      <hotspot title="Petting Zoo" target="34.5/2.5/70" pan="-88.3591" skinid="" url="{node14}" id="Point02" tilt="-1.32839"/>
+      <hotspot title="Exit park.  Thanks, bye!! :)" target="" pan="169.48" skinid="" url="{node1}" id="Point03" tilt="1.83477"/>
+      <hotspot title="The pond" target="316.5/2.5/70" pan="13.3515" skinid="" url="{node15}" id="Point04" tilt="-5.6502"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/006_o_0.jpg" prev5url="images/006_o_preview_5.jpg" prev4url="images/006_o_preview_4.jpg" prev3url="images/006_o_preview_3.jpg" prev2url="images/006_o_preview_2.jpg" prev1url="images/006_o_preview_1.jpg" prev0url="images/006_o_preview_0.jpg" tile5url="images/006_o_5.jpg" tilesize="1344" tile4url="images/006_o_4.jpg" tile3url="images/006_o_3.jpg" tilescale="1.007440" tile2url="images/006_o_2.jpg" tile1url="images/006_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/006_o_800_0.jpg" screensize="1000" tile5url="images/006_o_800_5.jpg" tilesize="800" tile4url="images/006_o_800_4.jpg" tile3url="images/006_o_800_3.jpg" tilescale="1.007440" tile2url="images/006_o_800_2.jpg" tile1url="images/006_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="3" pannorth="270">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:18:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621561" latitude="40.481325"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Hunts Hall, Concerts in the Park" target="0/0/70" pan="112.232" skinid="" url="{node5}" id="Point01" tilt="2.52686"/>
+      <hotspot title="Entrance" target="268.5/2.5/70" pan="-84.073" skinid="" url="{node2}" id="Point02" tilt="-1.85349"/>
+      <hotspot title="Primary Playground" target="345.5/0.5/70" pan="85.8009" skinid="" url="{node4}" id="Point03" tilt="-3.28986"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/007_o_0.jpg" prev5url="images/007_o_preview_5.jpg" prev4url="images/007_o_preview_4.jpg" prev3url="images/007_o_preview_3.jpg" prev2url="images/007_o_preview_2.jpg" prev1url="images/007_o_preview_1.jpg" prev0url="images/007_o_preview_0.jpg" tile5url="images/007_o_5.jpg" tilesize="1344" tile4url="images/007_o_4.jpg" tile3url="images/007_o_3.jpg" tilescale="1.007440" tile2url="images/007_o_2.jpg" tile1url="images/007_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/007_o_800_0.jpg" screensize="1000" tile5url="images/007_o_800_5.jpg" tilesize="800" tile4url="images/007_o_800_4.jpg" tile3url="images/007_o_800_3.jpg" tilescale="1.007440" tile2url="images/007_o_800_2.jpg" tile1url="images/007_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="3" pannorth="225">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:21:59" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621075" latitude="40.480722"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Hunts Hall, Concerts in the Park, Pool" target="0/0/70" pan="104.812" skinid="" url="{node5}" id="Point01" tilt="1.5019"/>
+      <hotspot title="Park drive" target="11.5/-5.5/70" pan="12.1793" skinid="" url="{node6}" id="Point02" tilt="-0.249571"/>
+      <hotspot title="Miniature Playground" target="0/0/70" pan="-79.8557" skinid="" url="{node3}" id="Point03" tilt="-0.619206"/>
+      <hotspot title="The Castle Top" target="245.5/-21/70" pan="-14.5708" skinid="" url="{node16}" id="Point04" tilt="1.49801"/>
+      <hotspot title="Concerts in the Park" target="220/4.5/70" pan="60.1254" skinid="" url="{node6}" id="Point05" tilt="1.37213"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/008_o_0.jpg" prev5url="images/008_o_preview_5.jpg" prev4url="images/008_o_preview_4.jpg" prev3url="images/008_o_preview_3.jpg" prev2url="images/008_o_preview_2.jpg" prev1url="images/008_o_preview_1.jpg" prev0url="images/008_o_preview_0.jpg" tile5url="images/008_o_5.jpg" tilesize="1344" tile4url="images/008_o_4.jpg" tile3url="images/008_o_3.jpg" tilescale="1.007440" tile2url="images/008_o_2.jpg" tile1url="images/008_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/008_o_800_0.jpg" screensize="1000" tile5url="images/008_o_800_5.jpg" tilesize="800" tile4url="images/008_o_800_4.jpg" tile3url="images/008_o_800_3.jpg" tilescale="1.007440" tile2url="images/008_o_800_2.jpg" tile1url="images/008_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="3" pannorth="247">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:26:26" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.620478" latitude="40.479761"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="008" target="283/-2.5/70" pan="272.292" skinid="" url="{node4}" id="Point01" tilt="0"/>
+      <hotspot title="Plaground, pond, picnic areas" target="346/-2.5/70" pan="-48.9801" skinid="" url="{node6}" id="Point02" tilt="-1.06624"/>
+      <hotspot title="Gas City Concerts in the Park is on Facebook!" target="_blank" pan="4.34349" skinid="" url="https://www.facebook.com/gascityconcertsinthepark" id="Point04" tilt="15.6152"/>
+      <hotspot title="Gas City Pool" target="_blank" pan="128.716" skinid="" url="https://mediabrain.net/gas-city/locations/gas-city-swimming-pool" id="Point05" tilt="3.26565"/>
+      <hotspot title="PCA" target="_blank" pan="-18.9047" skinid="" url="http://www.packagingcorp.com/gas-city-full-line-plant" id="Point03" tilt="0.591176"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/009_o_0.jpg" prev5url="images/009_o_preview_5.jpg" prev4url="images/009_o_preview_4.jpg" prev3url="images/009_o_preview_3.jpg" prev2url="images/009_o_preview_2.jpg" prev1url="images/009_o_preview_1.jpg" prev0url="images/009_o_preview_0.jpg" tile5url="images/009_o_5.jpg" tilesize="1344" tile4url="images/009_o_4.jpg" tile3url="images/009_o_3.jpg" tilescale="1.007440" tile2url="images/009_o_2.jpg" tile1url="images/009_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/009_o_800_0.jpg" screensize="1000" tile5url="images/009_o_800_5.jpg" tilesize="800" tile4url="images/009_o_800_4.jpg" tile3url="images/009_o_800_3.jpg" tilescale="1.007440" tile2url="images/009_o_800_2.jpg" tile1url="images/009_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="3" pannorth="0">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:29:48" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621936" latitude="40.480139"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Bench and swings" target="17.5/-3/70" pan="48.655" skinid="" url="{node7}" id="Point01" tilt="-2.39289"/>
+      <hotspot title="Castle Top" target="198.5/-21.5/70" pan="-34.2264" skinid="" url="{node16}" id="Point02" tilt="1.58941"/>
+      <hotspot title="Concerts in the Park" target="0/0/70" pan="-160.494" skinid="" url="{node5}" id="Point04" tilt="9.62037"/>
+      <hotspot title="Hunts Hall, Pool" target="183/-1.5/70" pan="-110.37" skinid="" url="{node5}" id="Point05" tilt="2.34136"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/010_o_0.jpg" prev5url="images/010_o_preview_5.jpg" prev4url="images/010_o_preview_4.jpg" prev3url="images/010_o_preview_3.jpg" prev2url="images/010_o_preview_2.jpg" prev1url="images/010_o_preview_1.jpg" prev0url="images/010_o_preview_0.jpg" tile5url="images/010_o_5.jpg" tilesize="1344" tile4url="images/010_o_4.jpg" tile3url="images/010_o_3.jpg" tilescale="1.007440" tile2url="images/010_o_2.jpg" tile1url="images/010_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/010_o_800_0.jpg" screensize="1000" tile5url="images/010_o_800_5.jpg" tilesize="800" tile4url="images/010_o_800_4.jpg" tile3url="images/010_o_800_3.jpg" tilescale="1.007440" tile2url="images/010_o_800_2.jpg" tile1url="images/010_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="3" pannorth="90">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:33:08" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.622869" latitude="40.480475"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Castle Top" target="198.5/-16.5/70" pan="-36.9636" skinid="" url="{node16}" id="Point01" tilt="1.89669"/>
+      <hotspot title="Picnic shelter" target="349.5/-25.5/70" pan="68.5782" skinid="" url="{node9}" id="Point02" tilt="0.284247"/>
+      <hotspot title="Petting Zoo" target="0/0/70" pan="33.6551" skinid="" url="{node14}" id="Point07" tilt="-1.93956"/>
+      <hotspot title="Go Fishing" target="0/0/70" pan="10.89" skinid="" url="{node15}" id="Point04" tilt="-3.10492"/>
+      <hotspot title="Concerts in the Park" target="217/-1/70" pan="-103.226" skinid="" url="{node6}" id="Point03" tilt="0.360943"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/011_o_0.jpg" prev5url="images/011_o_preview_5.jpg" prev4url="images/011_o_preview_4.jpg" prev3url="images/011_o_preview_3.jpg" prev2url="images/011_o_preview_2.jpg" prev1url="images/011_o_preview_1.jpg" prev0url="images/011_o_preview_0.jpg" tile5url="images/011_o_5.jpg" tilesize="1344" tile4url="images/011_o_4.jpg" tile3url="images/011_o_3.jpg" tilescale="1.007440" tile2url="images/011_o_2.jpg" tile1url="images/011_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/011_o_800_0.jpg" screensize="1000" tile5url="images/011_o_800_5.jpg" tilesize="800" tile4url="images/011_o_800_4.jpg" tile3url="images/011_o_800_3.jpg" tilescale="1.007440" tile2url="images/011_o_800_2.jpg" tile1url="images/011_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="3" pannorth="112">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:43:06" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.623053" latitude="40.481044"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Bench and swing" target="24.5/-12.5/70" pan="-98.1163" skinid="" url="{node7}" id="Point02" tilt="-1.08382"/>
+      <hotspot title="Duck Landing" target="5/-10/70" pan="117.607" skinid="" url="{node12}" id="Point01" tilt="0.180953"/>
+      <hotspot title="Go Fishing" target="0/0/70" pan="35.9078" skinid="" url="{node15}" id="Point03" tilt="0"/>
+      <hotspot title="Castle Top" target="200.5/-24.5/70" pan="-41.523" skinid="" url="{node16}" id="Point04" tilt="3.89092"/>
+      <hotspot title="An uninteresting place that does not exist" target="78/17/120" pan="-112.153" skinid="" url="{node17}" id="Point05" tilt="37.3418"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/013_o_0.jpg" prev5url="images/013_o_preview_5.jpg" prev4url="images/013_o_preview_4.jpg" prev3url="images/013_o_preview_3.jpg" prev2url="images/013_o_preview_2.jpg" prev1url="images/013_o_preview_1.jpg" prev0url="images/013_o_preview_0.jpg" tile5url="images/013_o_5.jpg" tilesize="1344" tile4url="images/013_o_4.jpg" tile3url="images/013_o_3.jpg" tilescale="1.007440" tile2url="images/013_o_2.jpg" tile1url="images/013_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/013_o_800_0.jpg" screensize="1000" tile5url="images/013_o_800_5.jpg" tilesize="800" tile4url="images/013_o_800_4.jpg" tile3url="images/013_o_800_3.jpg" tilescale="1.007440" tile2url="images/013_o_800_2.jpg" tile1url="images/013_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <view fovmode="3" pannorth="112">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:58:45" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.622800" latitude="40.482125"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Visit the petting zoo" target="0/0/70" pan="125.438" skinid="" url="{node14}" id="Point01" tilt="-2.17796"/>
+      <hotspot title="Picnic shelter" target="0/0/70" pan="-73.3714" skinid="" url="{node9}" id="Point03" tilt="2.36726"/>
+      <hotspot title="Go Fishing" target="0/0/70" pan="-6.34467" skinid="" url="{node15}" id="Point02" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/016_o_0.jpg" prev5url="images/016_o_preview_5.jpg" prev4url="images/016_o_preview_4.jpg" prev3url="images/016_o_preview_3.jpg" prev2url="images/016_o_preview_2.jpg" prev1url="images/016_o_preview_1.jpg" prev0url="images/016_o_preview_0.jpg" tile5url="images/016_o_5.jpg" tilesize="1344" tile4url="images/016_o_4.jpg" tile3url="images/016_o_3.jpg" tilescale="1.007440" tile2url="images/016_o_2.jpg" tile1url="images/016_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/016_o_800_0.jpg" screensize="1000" tile5url="images/016_o_800_5.jpg" tilesize="800" tile4url="images/016_o_800_4.jpg" tile3url="images/016_o_800_3.jpg" tilescale="1.007440" tile2url="images/016_o_800_2.jpg" tile1url="images/016_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <view fovmode="3" pannorth="0">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 17:01:43" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.623358" latitude="40.482581"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Go Fishing!" target="0/0/70" pan="-145.725" skinid="" url="{node15}" id="Point02" tilt="-0.217953"/>
+      <hotspot title="See what others have been doing here.  Gas City Petting Zoo is on Facebook!" target="_blank" pan="1.36119" skinid="" url="https://www.facebook.com/pages/Gas-City-Petting-Zoo/349698948401632" id="Point03" tilt="9.70522"/>
+      <hotspot title="Duck Landing" target="0/0/70" pan="174.083" skinid="" url="{node12}" id="Point01" tilt="-0.128551"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/018_o_0.jpg" prev5url="images/018_o_preview_5.jpg" prev4url="images/018_o_preview_4.jpg" prev3url="images/018_o_preview_3.jpg" prev2url="images/018_o_preview_2.jpg" prev1url="images/018_o_preview_1.jpg" prev0url="images/018_o_preview_0.jpg" tile5url="images/018_o_5.jpg" tilesize="1344" tile4url="images/018_o_4.jpg" tile3url="images/018_o_3.jpg" tilescale="1.007440" tile2url="images/018_o_2.jpg" tile1url="images/018_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/018_o_800_0.jpg" screensize="1000" tile5url="images/018_o_800_5.jpg" tilesize="800" tile4url="images/018_o_800_4.jpg" tile3url="images/018_o_800_3.jpg" tilescale="1.007440" tile2url="images/018_o_800_2.jpg" tile1url="images/018_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <view fovmode="3" pannorth="225">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 17:08:08" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621933" latitude="40.481619"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Petting Zoo" target="0/0/70" pan="-119.491" skinid="" url="{node14}" id="Point01" tilt="3.62565"/>
+      <hotspot title="Entrance" target="0/0/70" pan="176.825" skinid="" url="{node2}" id="Point03" tilt="-2.9083"/>
+      <hotspot title="Youtube 360" target="_blank" pan="-38.2244" skinid="" url="https://www.youtube.com/watch?v=Gvgw4glgWU4" id="Point05" tilt="-18.3769"/>
+      <hotspot title="Bench and swing" target="17.5/-12/70" pan="19.1282" skinid="" url="{node7}" id="Point02" tilt="2.47815"/>
+      <hotspot title="Picnic Shelter" target="89.5/-2/70" pan="-41.7382" skinid="" url="{node9}" id="Point06" tilt="4.74539"/>
+      <hotspot title="Duck Landing" target="267/-22/70" pan="-63.093" skinid="" url="{node12}" id="Point04" tilt="3.50146"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/019_o_0.jpg" prev5url="images/019_o_preview_5.jpg" prev4url="images/019_o_preview_4.jpg" prev3url="images/019_o_preview_3.jpg" prev2url="images/019_o_preview_2.jpg" prev1url="images/019_o_preview_1.jpg" prev0url="images/019_o_preview_0.jpg" tile5url="images/019_o_5.jpg" tilesize="1344" tile4url="images/019_o_4.jpg" tile3url="images/019_o_3.jpg" tilescale="1.007440" tile2url="images/019_o_2.jpg" tile1url="images/019_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/019_o_800_0.jpg" screensize="1000" tile5url="images/019_o_800_5.jpg" tilesize="800" tile4url="images/019_o_800_4.jpg" tile3url="images/019_o_800_3.jpg" tilescale="1.007440" tile2url="images/019_o_800_2.jpg" tile1url="images/019_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <view fovmode="3" pannorth="337">
+      <start pan="345" fov="86.0671" tilt="2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 17:15:50" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621894" latitude="40.480681"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Duck Landing" target="325.5/0.5/70" pan="37.3821" skinid="" url="{node12}" id="Point01" tilt="3.11245"/>
+      <hotspot title="Bench and swings" target="14.5/-1.5/70" pan="94.5893" skinid="" url="{node7}" id="Point02" tilt="-5.78199"/>
+      <hotspot title="Hunts Hall, Concerts in the Park, Gas City Pool" target="" pan="-151.977" skinid="" url="{node5}" id="Point03" tilt="-1.22856"/>
+      <hotspot title="Miniature Playground" target="0/0/70" pan="-19.7981" skinid="" url="{node3}" id="Point05" tilt="3.47682"/>
+      <hotspot title="Petting Zoo" target="" pan="20.2848" skinid="" url="{node14}" id="Point04" tilt="6.6274"/>
+      <hotspot title="Go Fishing!" target="0/0/70" pan="0.974085" skinid="" url="{node15}" id="Point06" tilt="3.72489"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/026_o_0.jpg" prev5url="images/026_o_preview_5.jpg" prev4url="images/026_o_preview_4.jpg" prev3url="images/026_o_preview_3.jpg" prev2url="images/026_o_preview_2.jpg" prev1url="images/026_o_preview_1.jpg" prev0url="images/026_o_preview_0.jpg" tile5url="images/026_o_5.jpg" tilesize="1344" tile4url="images/026_o_4.jpg" tile3url="images/026_o_3.jpg" tilescale="1.007440" tile2url="images/026_o_2.jpg" tile1url="images/026_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/026_o_800_0.jpg" screensize="1000" tile5url="images/026_o_800_5.jpg" tilesize="800" tile4url="images/026_o_800_4.jpg" tile3url="images/026_o_800_3.jpg" tilescale="1.007440" tile2url="images/026_o_800_2.jpg" tile1url="images/026_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <view fovmode="3" pannorth="0">
+      <start pan="0" fov="86.0671" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2016:07:14 16:14:35" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-85.621353" latitude="40.481828"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="4" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Exit" target="217/36.5/70" pan="165.847" skinid="" url="{node9}" id="Point01" tilt="-7.5966"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Skarbua inside hytte_o_0.jpg" prev5url="images/Skarbua inside hytte_o_preview_5.jpg" prev4url="images/Skarbua inside hytte_o_preview_4.jpg" prev3url="images/Skarbua inside hytte_o_preview_3.jpg" prev2url="images/Skarbua inside hytte_o_preview_2.jpg" prev1url="images/Skarbua inside hytte_o_preview_1.jpg" prev0url="images/Skarbua inside hytte_o_preview_0.jpg" tile5url="images/Skarbua inside hytte_o_5.jpg" tilesize="1344" tile4url="images/Skarbua inside hytte_o_4.jpg" tile3url="images/Skarbua inside hytte_o_3.jpg" tilescale="1.007440" tile2url="images/Skarbua inside hytte_o_2.jpg" tile1url="images/Skarbua inside hytte_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <altinput tile0url="images/Skarbua inside hytte_o_800_0.jpg" screensize="1000" tile5url="images/Skarbua inside hytte_o_800_5.jpg" tilesize="800" tile4url="images/Skarbua inside hytte_o_800_4.jpg" tile3url="images/Skarbua inside hytte_o_800_3.jpg" tilescale="1.007440" tile2url="images/Skarbua inside hytte_o_800_2.jpg" tile1url="images/Skarbua inside hytte_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>

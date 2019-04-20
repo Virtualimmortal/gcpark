@@ -1,0 +1,35 @@
+#control_bar {
+	display: none;
+}
+
+
+
+/**
+ * Responsive Selectors
+ */
+
+
+/* Landscape phones */
+@media (min-width: 479px) {
+	
+}
+
+
+/* Portrait tablet */
+@media(min-width:767px) {
+	
+}
+
+
+/* Landscape Tablet and Small Desktops */
+@media(min-width:992px){
+	
+} /* / endof landscape tablet and small desktops
+
+
+/* Large Desktops */
+@media(min-width:1200px){
+	
+} /* / endof Large Desktops
+
+/* endof responsive selectors */
